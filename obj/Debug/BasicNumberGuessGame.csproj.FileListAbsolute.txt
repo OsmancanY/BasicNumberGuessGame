@@ -1,0 +1,7 @@
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\obj\Debug\BasicNumberGuessGame.csprojAssemblyReference.cache
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\obj\Debug\BasicNumberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\bin\Debug\BasicNumberGuessGame.exe.config
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\bin\Debug\BasicNumberGuessGame.exe
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\bin\Debug\BasicNumberGuessGame.pdb
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\obj\Debug\BasicNumberGuessGame.exe
+C:\Users\Sky\source\repos\BasicNumberGuessGame\BasicNumberGuessGame\obj\Debug\BasicNumberGuessGame.pdb
